@@ -4,6 +4,9 @@
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas pelo IFPI
 - 📖 Estudando JavaScript
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
