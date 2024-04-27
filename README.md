@@ -1,7 +1,7 @@
 # Olá! Eu sou o Raimundo Oliveira
 
 - 📚 Técnico em Informática pelo IFPI
-- 📚 Ex aluno de Ciência da Computação pela UFC
+- 📚 Ex-aluno de Ciência da Computação pela UFC
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas pelo IFPI
 - 📖 Estudando JavaScript
 - 📖 Estudando Back-end Java
